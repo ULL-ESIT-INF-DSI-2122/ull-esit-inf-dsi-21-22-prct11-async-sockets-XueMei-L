@@ -9,7 +9,14 @@ Lenguaje de programción: TypeScipt
 ```
 ## 1. Introducción
 
+El propósito de esta practica es implementar un servidor y un cliente mediante el uso de los sockets proporcionados por el modulo net de Node.js.
+
+Las operaciones que vamos a implementar en esta practica esta basado en la practica09
+
 ## 2. Objetivos
+Familiarizar con el módulo net de Node.js.
+Familiarícese con la clase EventEmitter del módulo Events de Node.js.
+Usar los paquetes yargs y chalk.
 
 ## 3. Ejercicios realizados
 

@@ -1,3 +1,0 @@
-File execise01, hello world.
-This is execise01, type txt.
-one two three, testing.
