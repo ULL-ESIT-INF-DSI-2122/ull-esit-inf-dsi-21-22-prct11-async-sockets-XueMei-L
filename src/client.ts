@@ -1,8 +1,8 @@
 import {connect} from 'net';
-import * as chalk from 'chalk';
 import {RequestType, ResponseType} from './type';
 import {MessageEventEmitterClient} from './eventEmitterClient';
 
+const chalk = require('chalk');
 
 const error = chalk.bold.red;
 const informative = chalk.bold.green;

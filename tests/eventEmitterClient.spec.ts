@@ -2,7 +2,6 @@ import 'mocha';
 import {expect} from 'chai';
 import {EventEmitter} from 'events';
 import {MessageEventEmitterClient} from '../src/eventEmitterClient';
-import {MessageEventEmitterServer} from '../src/eventEmitterServer';
 
 describe('Prueba de EventEmitterClient', () => {
   it('02 - Test for eventEmitterClient', (done) => {
