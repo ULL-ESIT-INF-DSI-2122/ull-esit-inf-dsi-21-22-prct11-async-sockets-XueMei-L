@@ -1,11 +1,10 @@
+/* eslint-disable no-unused-vars */
 import {connect} from 'net';
 import {RequestType, ResponseType} from './type';
 import {MessageEventEmitterClient} from './eventEmitterClient';
 
 const chalk = require('chalk');
 
-const error = chalk.bold.red;
-const informative = chalk.bold.green;
 
 /**
  * Function that performs the commands received from yang in 
