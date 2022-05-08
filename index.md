@@ -41,10 +41,7 @@ En el fichero `cliente.ts` hace que inicia con una instancia de la clase Message
 ![imag](img/66.png)
 
 
-## 5. Testing
-
-
-## 6. Bibliografía
+## 5. Bibliografía
 - [Apuntes de la clases](https://ull-esit-inf-dsi-2122.github.io/typescript-theory/)
 - [Guión de la práctica](https://ull-esit-inf-dsi-2122.github.io/prct07-music-dataModel/)
 - [Inquirer.js](https://www.npmjs.com/package/inquirer)
