@@ -5,9 +5,8 @@ import {MessageEventEmitterClient} from './eventEmitterClient';
 
 const chalk = require('chalk');
 
-
 /**
- * Function that performs the commands received from yang in 
+ * Function that performs the commands received from yang in
  * ResquestTYPEbe format, produces a call to the client function
  */
 export function clientRequest(request: RequestType) {

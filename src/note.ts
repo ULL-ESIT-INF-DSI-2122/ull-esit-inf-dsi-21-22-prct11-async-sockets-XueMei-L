@@ -1,7 +1,5 @@
 import * as fs from 'fs';
-const chalk = require('chalk');
 import {note, ResponseType} from './type';
-
 
 /**
  * Class NoteInstance
