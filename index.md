@@ -25,9 +25,11 @@ El desarrollo de esta practica se basa en la [practica09](https://ull-esit-inf-d
 ### 3.1 Class MessageEventEmitterClient y Class MessageEventEmitterServer
 Estas dos clases son heredadas a la clase `EventEmitter` que porporciona Node en el modulo `events`. Las dos clases hacen que cuando recibe un objeto o informacion, recibir todos los trozos de la informacion y guarda en una variable.
 
-### 3.2 
+### 3.2 Server.ts
+Lo que hace es.. crear un objeto de MessageEventEmitterServer,  y pasa el objeto socket como parametro.  Espera que un client se conecta, y apartir de alli, los clientes conectados puede hacer cuaquier operacion (anadir, modificar, eliminar, listar, y leer notas) y devuelve el mensaje como un objeto JSON (en string) al client, indicando si su operacion fuese exito.
 
 ### 3.3 Ejercicio 3 ###
+
 
 ### 3.4 Ejercicio 4  ###
 
